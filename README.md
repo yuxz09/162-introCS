@@ -1,8 +1,6 @@
 # 162-introCS
 
-****** Project1 ******
-
-Langton’s Ant Rule
+****** Project1    Langton’s Ant Rule ******
 
 The rule of Langton’s Ant is very simple: the ant is placed onto the board that is filled with white spaces, and starts moving forward. For each step forward, the Langton’s ant will follow 2 rules:
 
